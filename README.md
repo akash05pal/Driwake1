@@ -3,7 +3,8 @@
 The problem DRIWAKE solves:-
 We have seen too many road accidents which occur due to several reasons and some of them are uncoditional health due to harmful gases inside the truck's cabin and Drowsiness of the driver ,
 
-Nowadays, Long hours spent in truck cabins expose drivers to various pollutants and contaminants, which can have adverse effects on their health. Monitoring air quality allows for early detection of harmful substances, enabling drivers to take necessary precautions or seek medical attention if needed and it also leads to drowsiness of drivers which is the main reasons behind road accidents. It is natural for the drivers who take long drives to doze off behind the steering wheel. In this reckon 5.0, we build Air quality and drowsiness detection system that will alert the driver as soon as the harmful gases starts increasing inside the cabin and degrading the air quality inside the cabin and driver fell drowsy,
+Nowadays, We can see too many road accidents which occur due to several reasons and one of them is Drowsiness of the driver ,Nowadays drowsiness of drivers is one of the main reasons behind road accidents. It is natural for the drivers who take long drives to doze off behind the steering wheel.we have to build an advanced drowsiness detection and alert system that will alert the driver as soon as he fell asleep.
+ we build Air quality and drowsiness detection system that will alert the driver as soon as the harmful gases starts increasing inside the cabin and degrading the air quality inside the cabin and driver fell drowsy,
 
 Safety: Poor air quality can impair a driver's ability to concentrate and react quickly, increasing the risk of accidents on the road. By monitoring air quality in real-time, drivers can be alerted to dangerous conditions, reducing the likelihood of accidents caused by impaired cognitive function.
 
