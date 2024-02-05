@@ -1,10 +1,10 @@
-Transportio - To every direction
+DRIWAKE - To every direction
 
 
 
 #---------- HEADER ----------#
 
-Transportio
+DRIWAKE
 
 aria-label = Clsoe menu
 <ion-icon name="close-outline"></ion-icon>
@@ -17,8 +17,8 @@ Service
 Blog
 Contact
 
-Free Call In U.S.A
-1 234 567 8910
+Free Call In INDIA
+9191338393
 
 <ion-icon name="call-outline"></ion-icon>
 
