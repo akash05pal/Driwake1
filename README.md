@@ -1,31 +1,54 @@
-# DRIWAKE
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/transportio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/transportio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/transportio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/55n9hx6QmVA?style=social)](https://youtu.be/55n9hx6QmVA)
 
-The problem DRIWAKE solves:-
-We have seen too many road accidents which occur due to several reasons and some of them are uncoditional health due to harmful gases inside the truck's cabin and Drowsiness of the driver ,
+  <br />
+  <br />
 
-Nowadays, We can see too many road accidents which occur due to several reasons and one of them is Drowsiness of the driver ,Nowadays drowsiness of drivers is one of the main reasons behind road accidents. It is natural for the drivers who take long drives to doze off behind the steering wheel.we have to build an advanced drowsiness detection and alert system that will alert the driver as soon as he fell asleep.
- we build Air quality and drowsiness detection system that will alert the driver as soon as the harmful gases starts increasing inside the cabin and degrading the air quality inside the cabin and driver fell drowsy,
+  <h2 align="center">Transportio - Transportation website</h2>
 
- speed controlling using retarding module
+  Transportio is a fully responsive transportation website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-Environmental Impact: Some truck cabins utilize internal combustion engines for heating or cooling, which can emit harmful pollutants into the cabin air. Monitoring air quality can help identify inefficient systems or maintenance issues, leading to reduced emissions and a smaller environmental footprint.
+  <a href="https://codewithsadee.github.io/transportio/"><strong>➥ Live Demo</strong></a>
 
-Data Collection and Analysis: Collecting data on air quality within truck cabins can provide valuable insights into trends and patterns regarding pollutant levels, helping researchers and policymakers better understand the impact of transportation on air quality and develop more effective mitigation strategies.
+</div>
 
-it will help truck drivers to monitor the air quality and drowsiness on their screens and get alerted before any mishappen occurs.
+<br />
 
-TECHNOLOGIES USED:-
+### Demo Screeshots
 
-1.HTML
+![Transportio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-2.REACT
+### Prerequisites
 
-3.CSS
+Before you begin, ensure you have met the following requirements:
 
-4.JAVASCRIPT
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-5.IOT
+### Run Locally
 
-6.BLYNK
+To run **Transportio** locally, run this command on your git bash:
 
-7.IOT CLOUD
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/transportio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/transportio.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
